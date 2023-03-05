@@ -3,11 +3,6 @@ import { useHttp } from "../../hooks/http.hook";
 
 const heroesAdapter = createEntityAdapter();
 
-// const initialState = {
-//     heroes: [],
-//     heroesLoadingStatus: 'idle',
-// }
-
 const initialState = heroesAdapter.getInitialState({
     heroesLoadingStatus: 'idle'
 });

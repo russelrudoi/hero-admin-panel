@@ -1,24 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": "9f0166bd-f11b-4bc5-ae06-9b99afb03dfa",
-      "name": "vfdvd",
-      "text": "vxvxv",
-      "element": "earth"
-    },
-    {
-      "id": "5e15b1fd-ee59-416c-a0e7-0bc0e5307723",
-      "name": "sdfsdfsfs",
-      "text": "",
-      "element": "water"
-    },
-    {
-      "id": "f408da09-11a0-49f8-842f-5a5481172142",
-      "name": "dfv",
-      "text": "dfv",
-      "element": "fire"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "label": "Все",
